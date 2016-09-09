@@ -24,4 +24,7 @@ section{
 .sak{
   width: 33%;
   height: 305px;
+  display: inline-block;
+  
 }
+
