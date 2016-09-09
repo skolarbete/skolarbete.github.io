@@ -26,5 +26,6 @@ section{
   height: 305px;
   display: inline-block;
   margin-left: 150px;
+  box-shadow: 4px 4px 0px #d6dce0;
 }
 
