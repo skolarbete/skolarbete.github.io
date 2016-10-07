@@ -1,4 +1,4 @@
-vvar hover = function() {
+var hover = function() {
     $(".video").mouseenter(function() {
         $(this).css("border", "solid grey 2px"); 
     });
