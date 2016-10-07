@@ -1,8 +1,8 @@
 var hover = function() {
     $(".video").mouseenter(function() {
-        $(this).css("border", "solid grey 1px;"); });
+        $(this).css("border", "solid green 1px;"); });
        
- $(".vidoo").mouseleave(function(){
+ $(".video").mouseleave(function(){
       $(this).css("border", "none")
     });
 
