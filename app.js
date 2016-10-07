@@ -1,10 +1,10 @@
 var hover = function() {
     $(".video").mouseenter(function() {
-        $(this).css("border", "solid grey 1px"); 
+        $(this).css("box-shadow", "1px 1px 1px grey"); 
     });
        
  $(".video").mouseleave(function(){
-      $(this).css("border", "none");
+      $(this).css("box-shadow", "none");
     });
 
 };
