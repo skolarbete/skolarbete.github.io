@@ -39,7 +39,7 @@ section{
 .video{
     width: 43%;
     height: 250px;
-    border: solid 1px grey;
+    box-shadow: 1px 1px 1px grey;
     margin-top: 50px;
     display: inline-block;
     
